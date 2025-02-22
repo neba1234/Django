@@ -35,7 +35,7 @@ Now Run Your Server
 ```
 python manage.py runserver
 ```
-![Server](https://github.com/neba1234/Django/blob/main/Python-World-wishlist-918716e/img/server.PNG)
+![Server](https://github.com/neba1234/Django/blob/main/img/server.PNG)
 
 Visit Following Url in Any Browser
 ```
@@ -44,11 +44,11 @@ http://127.0.0.1:8000/
 
 Output:
 
-![success](https://github.com/neba1234/Django/blob/main/Python-World-wishlist-918716e/img/success.PNG)
+![success](https://github.com/neba1234/Django/blob/main/img/success.PNG)
 
 
 Full Working Demo
-![CRUD](https://github.com/neba1234/Django/blob/main/Python-World-wishlist-918716e/img/FirstApp.gif)
+![CRUD](https://github.com/neba1234/Django/blob/main/img/FirstApp.gif)
 
 
 
